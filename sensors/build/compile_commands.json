@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/iip/debts/sensors/build",
+  "command": "C:\\msys64\\mingw32\\bin\\g++.exe -g -o CMakeFiles\\main.dir\\main.cpp.obj -c D:\\iip\\debts\\sensors\\main.cpp",
+  "file": "D:\\iip\\debts\\sensors\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\main.cpp.obj"
+}
+]
