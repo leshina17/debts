@@ -50,13 +50,5 @@
    class sensors_array{
       private:
          sensors** _array;
-         int _size=100;
-      public: 
-         sensors_array(){
-            _array= new sensors*[100];
-         }
+         int _size
    };
-
-int main(){
-   return 0;
-}
